@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Sviatoslav youtube mern",
+  "mongoUrl": "mongodb+srv://exlibrus:3478955Sx@cluster0.dmac1.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
